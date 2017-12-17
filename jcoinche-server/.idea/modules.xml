@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jcoinche-controllers.iml" filepath="$PROJECT_DIR$/.idea/modules/jcoinche-controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jcoinche-controllers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jcoinche-controllers_main.iml" group="jcoinche-controllers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jcoinche-controllers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jcoinche-controllers_test.iml" group="jcoinche-controllers" />
+    </modules>
+  </component>
+</project>

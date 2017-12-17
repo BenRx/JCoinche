@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="Gainsboro">#DCDCDC</color>
+
+    <color name="blackPremium">#2b2b29</color>
+    <color name="blackTransparent">#aa000000</color>
+    <color name="blackTransparent2">#77000000</color>
+    <color name="blackTransparent3">#55000000</color>
+    <color name="blackTransparent4">#21000000</color>
+
+    <color name="red1">#fa4959</color>
+    <color name="red2">#CC384B</color>
+
+    <color name="greenLight">#0fdf92</color>
+    <color name="green">#33b860</color>0fdf92
+    <color name="greenDark">#1F3B34</color>
+
+    <color name="blueLight">#167C80</color>
+    <color name="blueLight2">#19AAD1</color>
+    <color name="blue">#005380</color>
+    <color name="blueDark">#384D9D</color>
+
+
+    <color name="orange1">#fab345</color>
+    <color name="orange2">#fb6145</color>
+    <color name="orange3">#f76b1c</color>
+
+    <color name="greyLight">#b7b7b7</color>
+    <color name="greyLight2">#cfcfcf</color>
+    <color name="greyLight3">#EFEFEF</color>
+    <color name="greyDark">#424242</color>
+    <color name="greyDark2">#727272</color>
+    <color name="greyDark3">#AAA</color>
+
+    <color name="blueFacebook">#3B5998</color>
+
+    <color name="yellow1">#FFD101</color>
+    <color name="yellow2">#ea9600</color>
+
+    <color name="purpleLight">#776EA7</color>
+    <color name="purpleDark">#3C225F</color>
+
+</resources>
